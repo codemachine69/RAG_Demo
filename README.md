@@ -21,7 +21,7 @@ A lightweight, focused Retrieval-Augmented Generation (RAG) system for answering
 
 ## 💻 Usage
 
-**That's it! One command:**
+**Command:**
 
 ```bash
 python rag_pdf.py document.pdf
@@ -49,7 +49,7 @@ python rag_pdf.py M-618.pdf
 4. **Search**: Finds most relevant chunks for your question
 5. **Answer**: Gemini generates grounded response with citations
 
-## 📊 Output Example
+<!-- ## 📊 Output Example
 
 ```
 Question: What is USCIS?
@@ -60,7 +60,7 @@ service number is 1-800-375-5283 or 1-800-767-1833 (for the hearing impaired)
 1-800-870-3676 (page 11).
 
 Pages: 11, 14, 16, 116
-```
+``` -->
 
 ## 🛠️ System Requirements
 
